@@ -1,0 +1,33 @@
+.wrapper{
+    margin: 5px;
+}
+
+.nav{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 0;
+    background-color: lightgray;
+    border: 3px solid white;
+}
+
+.positioning h1{
+    width: 100%;
+    background-color: limegreen;
+}
+
+.positioning h1{
+    text-align: center;
+}
+
+.lotsoftext{
+    text-align: center;
+    background-color: turquoise;
+    width: 100%;
+}
+
+body{
+    background-color: purple;
+}
+  
+
